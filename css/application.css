@@ -112,8 +112,6 @@ dfn {
  * contexts in Firefox 4+, Safari, and Chrome.
  */
 .page h1 {
-  /*font-size: 2em;*/
-  /*margin: 0.67em 0;*/
   position: static;
   font-weight: bold;
 }
